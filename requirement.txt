@@ -1,0 +1,6 @@
+librosa
+pyaudio
+soundfile
+pygame
+keyboard
+audioop
